@@ -1,0 +1,2 @@
+* * * * * /usr/bin/flock -n /tmp/restart_dhcp_dns_advertis.lock /root/restart_dhcp_dns_advertis.sh
+# crontab must end with the last line as space or a comment
